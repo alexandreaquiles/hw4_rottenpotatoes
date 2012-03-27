@@ -1,0 +1,22 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  id: 1
+  title: The Terminator
+  director: James Cameron
+  
+two:
+  id: 2
+  title: The Sound of Music
+  director: Robert Wise
+  
+three:
+  id: 3
+  title: Avatar
+  director: James Cameron
+  
+four:
+  id: 4
+  title: Help!
+  director:    
+  
